@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="title">Human Anatomy Quiz</string>
+    <string name="buttonText">Start Quiz</string>
+    <string name="img1">heart</string>
+    <string name="qA">A. How many times does a heart beat in a lifetime?</string>
+    <string name="a1">2.5 million</string>
+    <string name="a2">2.5 billion</string>
+    <string name="a3">2.5 trillion</string>
+    <string name="img2">vocal box</string>
+    <string name="qB">B. Another name for your voice box is the?</string>
+    <string name="b1">Larynx</string>
+    <string name="b2">True vocal cords</string>
+    <string name="b3">Trachea</string>
+    <string name="b4">False vocal cords</string>
+    <string name="img3">dna</string>
+    <string name="qC">C. The shape of DNA is known as?</string>
+    <string name="c1">Helical</string>
+    <string name="c2">A double helix</string>
+    <string name="c3">Rope-shaped</string>
+    <string name="qD">D. Who first described the true shape of DNA?</string>
+    <string name="d1">Rosalind Franklin</string>
+    <string name="d2">Maurice Wilkins</string>
+    <string name="d3">Friedrich Miescher</string>
+    <string name="d4"> James Watson &amp; Francis Crick</string>
+    <string name="button">Submit</string>
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="73dp"
+        android:layout_height="120dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/textView3"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="182dp"
+        android:layout_toEndOf="@+id/textView3"
+        android:contentDescription="@string/img3"
+        android:src="@drawable/dna" />
+
+    <TextView
+        android:id="@+id/textView3"
+        style="@style/textViewStyle"
+        android:layout_width="305dp"
+        android:layout_height="wrap_content"
+        android:text="@string/qC"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+    <RadioGroup
+        android:id="@+id/qThreeRadioGrp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_below="@+id/textView3"
+        android:layout_marginTop="@dimen/radioGrpMarginTop"
+        android:orientation="vertical">
+        <RadioButton
+            android:id="@+id/qThreeRadioButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/c1"
+            android:textAppearance="?android:textAppearanceMedium"/>
+        <RadioButton
+            android:id="@+id/qThreeRadioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/c2"
+            android:textAppearance="?android:textAppearanceMedium"/>
+        <RadioButton
+            android:id="@+id/qThreeRadioButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/c3"
+            android:textAppearance="?android:textAppearanceMedium"/>
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView4"
+        style="@style/textViewStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/qThreeRadioGrp"
+        android:layout_marginTop="20dp"
+        android:text="@string/qD"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+    <RadioGroup
+        android:id="@+id/qFourRadioGrp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView4"
+        android:layout_below="@+id/textView4"
+        android:layout_marginTop="@dimen/radioGrpMarginTop"
+        android:orientation="vertical">
+        <RadioButton
+            android:id="@+id/qFourRadioButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/d1"
+            android:textAppearance="?android:textAppearanceMedium"/>
+        <RadioButton
+            android:id="@+id/qFourRadioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/d2"
+            android:textAppearance="?android:textAppearanceMedium"/>
+        <RadioButton
+            android:id="@+id/qFourRadioButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/d3"
+            android:textAppearance="?android:textAppearanceMedium"/>
+        <RadioButton
+            android:id="@+id/qFourRadioButton4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/d4"
+            android:textAppearance="?android:textAppearanceMedium"/>
+    </RadioGroup>
+</RelativeLayout>

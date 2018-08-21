@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="115dp"
+        android:layout_height="156dp"
+        android:layout_alignTop="@+id/textView2"
+        android:layout_toEndOf="@+id/textView2"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/img2"
+        android:src="@drawable/voice_box" />
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/textViewStyle"
+        android:layout_width="236dp"
+        android:layout_height="wrap_content"
+        android:text="@string/qB"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+    <RadioGroup
+        android:id="@+id/qTwoRadioGrp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="@dimen/radioGrpMarginTop"
+        android:orientation="vertical">
+        <RadioButton
+            android:id="@+id/qTwoRadioButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/b1"
+            android:textAppearance="?android:textAppearanceMedium" />
+        <RadioButton
+            android:id="@+id/qTwoRadioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/b2"
+            android:textAppearance="?android:textAppearanceMedium" />
+        <RadioButton
+            android:id="@+id/qTwoRadioButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/b3"
+            android:textAppearance="?android:textAppearanceMedium" />
+    </RadioGroup>
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewLayoutMarginEnd">8dp</dimen>
+    <dimen name="textViewLayoutMarginTop">16dp</dimen>
+    <dimen name="textViewLayoutMarginStart">16dp</dimen>
+    <dimen name="textViewTextSize">18sp</dimen>
+    <dimen name="radioGrpMarginTop">5dp</dimen>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="115dp"
+        android:layout_height="156dp"
+        android:layout_alignTop="@+id/textView1"
+        android:layout_toEndOf="@+id/textView1"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="8dp"
+        android:contentDescription="@string/img1"
+        android:src="@drawable/heart" />
+    <TextView
+        android:id="@+id/textView1"
+        style="@style/textViewStyle"
+        android:layout_width="236dp"
+        android:layout_height="wrap_content"
+        android:text="@string/qA"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+    <RadioGroup
+        android:id="@+id/qOneRadioGrp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="@dimen/radioGrpMarginTop"
+        android:orientation="vertical">
+        <RadioButton
+            android:id="@+id/qOneRadioButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a1"
+            android:textAppearance="?android:textAppearanceMedium" />
+        <RadioButton
+            android:id="@+id/qOneRadioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a2"
+            android:textAppearance="?android:textAppearanceMedium" />
+        <RadioButton
+            android:id="@+id/qOneRadioButton3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a3"
+            android:textAppearance="?android:textAppearanceMedium" />
+    </RadioGroup>
+</RelativeLayout>

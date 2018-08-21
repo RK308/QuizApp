@@ -7,6 +7,6 @@ which has multiple choice questions. After completion of the quiz it will show t
 for the question.
 
 ## App Screenshot
-![screenshot_1534876553](https://user-images.githubusercontent.com/38148871/44426602-148b1180-a55d-11e8-9635-b42386ce2e55.png)
+##![screenshot_1534876553](https://user-images.githubusercontent.com/38148871/44426602-148b1180-a55d-11e8-9635-b42386ce2e55.png)
 ![]
 

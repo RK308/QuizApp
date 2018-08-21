@@ -12,8 +12,9 @@ for the question.
 <img src="https://user-images.githubusercontent.com/38148871/44427202-dc84ce00-a55e-11e8-8467-10e7f27c6e94.png" width="200">
 <img src="https://user-images.githubusercontent.com/38148871/44427215-ead2ea00-a55e-11e8-8551-742742c2e9a1.png" width="200">
 <img src="https://user-images.githubusercontent.com/38148871/44427236-fc1bf680-a55e-11e8-94c0-64b814a6c51c.png" width="200">
-<img src="https://user-images.githubusercontent.com/38148871/44427257-0b02a900-a55f-11e8-9f62-2fd78c12bb0a.png" width="200"> <img src="https://user-images.githubusercontent.com/38148871/44427277-17870180-a55f-11e8-86a5-9a60d77b3375.png" width="200">
-<img src="https://user-images.githubusercontent.com/38148871/44427299-2a013b00-a55f-11e8-95b5-4e7ea7cef5df.png" width="200">
+<img src="https://user-images.githubusercontent.com/38148871/44427257-0b02a900-a55f-11e8-9f62-2fd78c12bb0a.png" height="200">
+<img src="https://user-images.githubusercontent.com/38148871/44427277-17870180-a55f-11e8-86a5-9a60d77b3375.png" height="200">
+<img src="https://user-images.githubusercontent.com/38148871/44427299-2a013b00-a55f-11e8-95b5-4e7ea7cef5df.png" height="200">
 
 
 

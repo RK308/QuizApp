@@ -7,8 +7,7 @@ which has multiple choice questions. After completion of the quiz it will show t
 for the question.
 
 ## App Screenshot
-<img src="https://user-images.githubusercontent.com/38148871/44426602-148b1180-a55d-11e8-9635-b42386ce2e55.png" width="200">
-<img src="https://user-images.githubusercontent.com/38148871/44427158-b65f2e00-a55e-11e8-9919-1c78a67b0e62.png" width="200">
+<img src="https://user-images.githubusercontent.com/38148871/44426602-148b1180-a55d-11e8-9635-b42386ce2e55.png" width="200"><img src="https://user-images.githubusercontent.com/38148871/44427158-b65f2e00-a55e-11e8-9919-1c78a67b0e62.png" width="200">
 <img src="https://user-images.githubusercontent.com/38148871/44427184-cd9e1b80-a55e-11e8-8068-d46ab10f9349.png" width="200">
 <img src="https://user-images.githubusercontent.com/38148871/44427202-dc84ce00-a55e-11e8-8467-10e7f27c6e94.png" width="200">
 <img src="https://user-images.githubusercontent.com/38148871/44427215-ead2ea00-a55e-11e8-8551-742742c2e9a1.png" width="200">

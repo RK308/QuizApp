@@ -6,6 +6,8 @@ The app contains main page that allows the user to start the quiz, which opens u
 which has multiple choice questions. After completion of the quiz it will show the score and the correct answers
 for the question.
 
+##Second Project - Score Keeper App
+
 ## App Screenshot
 <img src="https://user-images.githubusercontent.com/38148871/44426602-148b1180-a55d-11e8-9635-b42386ce2e55.png" width="200">  <img src="https://user-images.githubusercontent.com/38148871/44427158-b65f2e00-a55e-11e8-9919-1c78a67b0e62.png" width="200"> 
 <img src="https://user-images.githubusercontent.com/38148871/44427184-cd9e1b80-a55e-11e8-8068-d46ab10f9349.png" width="200">
